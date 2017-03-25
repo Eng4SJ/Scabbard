@@ -2,7 +2,9 @@
 
 ## Background
 
-Female-presenting internet denizens commonly have to deal with a continuous influx of undesired images of male genitalia on any website that allows interuser interaction, spanning social networks like Facebook and Twitter and Snapchat to dating sites like Tinder and OkCupid. The images are not sent in aspiration of sex, but more realistically as a means of forcing themself into the space of the recipient, demanding their attention and time, even if only to be blocked, reported, and banned. Unwanted dick pics are a member of a more general form of harassment and bullying by the sending of images the sender expects with upset the recipient including, for example, sending nazi imagery to jewish people, extreme gore from their apartheid to pro-palestinian activists, and mutilated fetuses to pregnant women considering or planning abortion. Despite immense advances in image recognition in recent years, the common response accross all major technosocial platforms has been a complete failure to address the problem preemptively, at best banning the senders. Commonly recipients are left with requesting help from police, who fail to address the problem because they don't understand the tech, the sender's location is unknown, or it is ostensibly not their jurisdiction.
+Female-presenting internet denizens commonly have to deal with a continuous influx of undesired images of male genitalia on any website that allows interuser interaction, spanning social networks like Facebook and Twitter and Snapchat to dating sites like Tinder and OkCupid. The images are not sent in aspiration of sex, but more realistically as a means of forcing themself into the space of the recipient, demanding their attention and time, even if only to be blocked, reported, and banned. Unwanted dick pics are one member of a more general form of harassment and bullying by the sending of images the sender expects with upset the recipient including, for example, sending nazi imagery to jewish people, extreme gore from their apartheid to pro-palestinian activists, and mutilated fetuses to pregnant women considering or planning abortion.
+
+Despite immense advances in image recognition in recent years, the common response accross all major technosocial platforms has been a complete failure to address the problem preemptively, at best banning the senders. Commonly recipients are left with requesting help from police, who fail to address the problem because they don't understand the tech, the sender's location is unknown, or it is ostensibly not their jurisdiction.
 
 ## Objective 
 
@@ -34,7 +36,7 @@ Recognize likely-undesired images and enforce good consent practices by covering
 
 ## Ethics/Social Justice Concerns
 
-+ This project toes a fine line between overaggressive censorship and permissive facilitating of aggressors. 
++ This project toes a fine line between overaggressive sexshaming and permissive facilitating of aggressors. Care must be taken to respect the significance of images that, despite triggering this tool's classifier, have broader cultural significance, often referred to as iconic. Handling this will require nuance.
 + Note that because of the background and identity of the project proposer, this proposal indubitably fails to account for a multitude of forms or harassment. No list I have provided is complete; it's of the utmost importance that the tool is accounting for needs as broadly as possible rather than merely those I or the engineers of the project are aware of off the tops of our heads. This will require actively seeking out the problems faced by and perspective of people unlike you.
 
 ## Provided Materials & Recommended Research Topics
